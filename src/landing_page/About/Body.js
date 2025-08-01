@@ -25,7 +25,7 @@ function Body() {
                     </p>
                 </div>
                 <div className='col-4'>
-                    <img src='media/images/bikram1.jpg' alt='image' style={{ width:'80%',borderRadius:"100%"  }} />
+                    <img src='media/images/bikram.jpg' alt='image' style={{ width:'80%',borderRadius:"100%"  }} />
                 </div>
             </div>
         </div>

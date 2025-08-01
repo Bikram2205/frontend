@@ -4,7 +4,7 @@ import React from 'react';
 function Contuctpage() {
     return (
         <div className='container'>
-            <h1 className='fs-8 text-center'>Contact</h1>
+            <h1 className='text-center mt-3'>Contact</h1>
             <a href="mailto:bikrambera88@gmail.com" style={{color:"black"}}>
                 <i class="fa fa-envelope fs-5" aria-hidden="true">Email</i>
             </a> <br /> <br />

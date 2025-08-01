@@ -2,9 +2,11 @@ import React from 'react';
 
 function Profilepage() {
     return ( 
-        <> 
-        <h1>Dream Page</h1>
-        </>
+        <div className="container">
+            <div className="text-center mt-3">
+        <h1>Profile</h1>
+            </div>
+        </div>
      );
 }
 
